@@ -21,7 +21,7 @@ We would be using **Python 3**, with **PyCharm** as the IDE.
 * [Chapter 07 - Introducing Loops](#chapter-07---introducing-loops)
 * [Chapter 08 - Python Tips](#chapter-08---python-tips)
 * [Chapter 09 - Introducing Object Oriented Programming](#chapter-09---introducing-object-oriented-programming)
-* [Chapter 10 : Python Data Structures](#chapter-10---python-data-structures)
+* [Chapter 10 : Python Data Structures](#chapter-10--python-data-structures)
 * [Chapter 11 - Object Oriented Programming Revisited](#chapter-11---object-oriented-programming-revisited)
 * [Chapter 12 - Error Handling](#chapter-12---error-handling)
 * [Chapter 13 - More Python Tips](#chapter-13---more-python-tips)
